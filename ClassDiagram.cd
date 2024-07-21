@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Asteroid">
+    <Position X="12.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAZAACACCACEAAABBMABIRAAIBQgQwADABQgAABAghg=</HashCode>
+      <FileName>Asteroid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet">
+    <Position X="24.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAAAAAAAAAABAACIAAAAAQAAQAGABAgACBUgAA=</HashCode>
+      <FileName>Bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy">
+    <Position X="15.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAACAAAAAAAAAAQAAIAAgQAAAABQgAAAAgBA=</HashCode>
+      <FileName>Enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy_bullet">
+    <Position X="14.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAgAACAAQAABAACIQAAIAQgQQACABQgACBEgBg=</HashCode>
+      <FileName>Enemy_bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game">
+    <Position X="22" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQgAQAAAAAAAgAAAAAAAAAiAAAIMABAABAAAAAI=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_over_interface">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIQDEQQAQAAIAAAAlgAABBUBAAgECkISABAABoEAMAI=</HashCode>
+      <FileName>Game_over_interface.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Help">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYDAAABQAAIAAAEIAAAAAEAAAAACgKgABQABgAAIAA=</HashCode>
+      <FileName>Help.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hostile_ship">
+    <Position X="17" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIZAAAAAAACMAAAABMABIRAAIBQgQwAAgBQgBAJAghg=</HashCode>
+      <FileName>Hostile_ship.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="In_game_interface">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAQSiAAIAAhAAIiIUBAAIQBgIJABgILkIEIAY=</HashCode>
+      <FileName>In_game_interface.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAQAAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAA=</HashCode>
+      <FileName>Interface.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leaderboard">
+    <Position X="7.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAYCAAAAQAAAAAAEUAAIAAEAAAAAygKgCBAABgAAoAA=</HashCode>
+      <FileName>Leaderboard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu">
+    <Position X="9.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQDIgAAQABIAACAAIAAAgEAAAAICgKAAJAABgAAICA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="22" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAZEAAAAAAAECAAABAAAIDAAABQgAwACABAgAQBAgBA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ufo">
+    <Position X="19.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAZQAAIAAACEAAAABMABIRAAIBQgQwAAgBQgBABAghg=</HashCode>
+      <FileName>Ufo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="State">
+    <Position X="22" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAggAAAAAAAIAAAAACgAAAI=</HashCode>
+      <FileName>State.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
